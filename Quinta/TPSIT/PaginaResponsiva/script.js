@@ -1,3 +1,4 @@
+/*
 document.addEventListener('DOMContentLoaded', function () {
   const toggleButton = document.createElement('div');
   toggleButton.classList.add('menu-toggle');
@@ -40,3 +41,4 @@ function fetchCatImages() {
       console.error('Errore nel recupero delle immagini dei gatti:', error);
     });
 }
+*/
