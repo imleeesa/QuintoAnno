@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Orario</h1>
+        </header>
+        
+        <div class="selection">
+            <label for="option-select">Scegli un opzione: </label>
+            <select id="option-select">
+                <option value="">--Please choose an option--</option>
+                <option value="orariogiorno">Orario di un determinato giorno della settimana</option>
+                <option value="orariomateria">Orario di una materia</option>
+                <option value="numoremateria">Numero ore di una determinata materia</option>
+                <option value="numorelabmateria">Numero di ore di laboratorio di una determinata disciplina</option>
+            </select>
+        </div>
+        
+        <div id="various-options"></div>
+        <div id="hour-count"></div>
+
+        <div class="table-container">
+            <table id="table">
+                <thead>
+                    <tr>
+                        <th>Ore</th>
+                        <th>Materia</th>
+                        <th>Professore</th>
+                        <th>Giorno</th>
+                        <th>Orario</th>
+                        <th>Professore IT</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

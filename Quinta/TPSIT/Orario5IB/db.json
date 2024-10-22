@@ -1,0 +1,180 @@
+{
+  "orario": [
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "LETTERE",
+      "TEACHER0": "FERRARI",
+      "DAY": "LUN",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "MATEMATICA",
+      "TEACHER0": "NICOLINI",
+      "DAY": "LUN",
+      "TIME": "9:55",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "GPOI",
+      "TEACHER0": "CAPPELLAZZO",
+      "DAY": "LUN",
+      "TIME": "12:05",
+      "TEACHER1": "ZAMBELLI"
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "INGLESE",
+      "TEACHER0": "PEROCCO",
+      "DAY": "MAR",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "INGLESE",
+      "TEACHER0": "PEROCCO",
+      "DAY": "MAR",
+      "TIME": "9:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "TPSIT",
+      "TEACHER0": "RONCHI",
+      "DAY": "MAR",
+      "TIME": "9:55",
+      "TEACHER1": "VETTORATO"
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "INFORMATICA",
+      "TEACHER0": "MORETTIN",
+      "DAY": "MAR",
+      "TIME": "12:05",
+      "TEACHER1": "PAVAN"
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "INFORMATICA",
+      "TEACHER0": "MORETTIN",
+      "DAY": "MER",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "TPSIT",
+      "TEACHER0": "RONCHI",
+      "DAY": "MER",
+      "TIME": "9:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "MATEMATICA",
+      "TEACHER0": "NICOLINI",
+      "DAY": "MER",
+      "TIME": "9:55",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "LETTERE",
+      "TEACHER0": "FERRARI",
+      "DAY": "MER",
+      "TIME": "11:05",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "LETTERE",
+      "TEACHER0": "FERRARI",
+      "DAY": "GIO",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "INFORMATICA",
+      "TEACHER0": "MORETTIN",
+      "DAY": "GIO",
+      "TIME": "9:55",
+      "TEACHER1": "PAVAN"
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "SIST.RETI",
+      "TEACHER0": "MATTIELLO",
+      "DAY": "GIO",
+      "TIME": "12:05",
+      "TEACHER1": "DENTICO"
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "SIST.RETI",
+      "TEACHER0": "MATTIELLO",
+      "DAY": "VEN",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "TPSIT",
+      "TEACHER0": "RONCHI",
+      "DAY": "VEN",
+      "TIME": "9:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "INFORMATICA",
+      "TEACHER0": "MORETTIN",
+      "DAY": "VEN",
+      "TIME": "9:55",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "2:00",
+      "SUBJECT": "SC.MOTORIE",
+      "TEACHER0": "DEL GIUDICE",
+      "DAY": "VEN",
+      "TIME": "11:05",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "INGLESE",
+      "TEACHER0": "PEROCCO",
+      "DAY": "SAB",
+      "TIME": "8:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "GPOI",
+      "TEACHER0": "CAPPELLAZZO",
+      "DAY": "SAB",
+      "TIME": "9:00",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "SIST.RETI",
+      "TEACHER0": "MATTIELLO",
+      "DAY": "SAB",
+      "TIME": "10:05",
+      "TEACHER1": ""
+    },
+    {
+      "DURATION": "1:00",
+      "SUBJECT": "IRC",
+      "TEACHER0": "NIERO",
+      "DAY": "SAB",
+      "TIME": "11:00",
+      "TEACHER1": ""
+    }
+  ]
+}
